@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483772042648",
+    "project_id": "tianyuliu-17b17",
+    "storage_bucket": "tianyuliu-17b17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483772042648:android:603085bd2a16ff4b456fed",
+        "android_client_info": {
+          "package_name": "com.example.exercise6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuZnsDMPOTGgbM3Caf5d-7kyXoSBfB6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
