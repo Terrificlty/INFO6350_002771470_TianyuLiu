@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "117983021252",
+    "project_id": "info6350-garagesale",
+    "storage_bucket": "info6350-garagesale.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117983021252:android:ab3ac63e85ec91e8de2191",
+        "android_client_info": {
+          "package_name": "com.example.garagesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117983021252-gnve1rkmi45k7mlaeksp3tcmjh8qfnnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garagesale",
+            "certificate_hash": "57d535d0a5a2a8185f30d84ab14a333502c0f190"
+          }
+        },
+        {
+          "client_id": "117983021252-tdvutu95q6g8j7nq1ekkrragapakffit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garagesale",
+            "certificate_hash": "debfdacf4849c5c4f1baefe9ca2551761d959829"
+          }
+        },
+        {
+          "client_id": "117983021252-5niogbuv37o2ud1h044f5n1jiibgq1a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGTvw-VW3OE0whxvSHyK9pOOVNVDnMJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117983021252-5niogbuv37o2ud1h044f5n1jiibgq1a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
