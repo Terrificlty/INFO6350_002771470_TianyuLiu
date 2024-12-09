@@ -2,4 +2,4 @@
 
 
 ### Output:
-![alt text](exercise5.png)
+![exercise5](exercise5.png)
